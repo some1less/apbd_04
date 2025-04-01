@@ -42,3 +42,4 @@ C:\Users\blyskavka\Downloads\Tutorial4\Tutorial4\Tutorial4\obj\Debug\net9.0\refi
 C:\Users\blyskavka\Downloads\Tutorial4\Tutorial4\Tutorial4\obj\Debug\net9.0\Tutorial4.pdb
 C:\Users\blyskavka\Downloads\Tutorial4\Tutorial4\Tutorial4\obj\Debug\net9.0\Tutorial4.genruntimeconfig.cache
 C:\Users\blyskavka\Downloads\Tutorial4\Tutorial4\Tutorial4\obj\Debug\net9.0\ref\Tutorial4.dll
+C:\Users\blyskavka\Downloads\Tutorial4\Tutorial4\Tutorial4\obj\Debug\net9.0\Tutorial4.sourcelink.json
