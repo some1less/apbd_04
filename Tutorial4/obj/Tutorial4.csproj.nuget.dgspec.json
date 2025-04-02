@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blyskavka\\Downloads\\Tutorial4\\Tutorial4\\Tutorial4\\Tutorial4.csproj": {}
+    "/Users/maksym/Desktop/main/pjatk/git/apbd_04/apbd_04/Tutorial4/Tutorial4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blyskavka\\Downloads\\Tutorial4\\Tutorial4\\Tutorial4\\Tutorial4.csproj": {
+    "/Users/maksym/Desktop/main/pjatk/git/apbd_04/apbd_04/Tutorial4/Tutorial4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blyskavka\\Downloads\\Tutorial4\\Tutorial4\\Tutorial4\\Tutorial4.csproj",
+        "projectUniqueName": "/Users/maksym/Desktop/main/pjatk/git/apbd_04/apbd_04/Tutorial4/Tutorial4.csproj",
         "projectName": "Tutorial4",
-        "projectPath": "C:\\Users\\blyskavka\\Downloads\\Tutorial4\\Tutorial4\\Tutorial4\\Tutorial4.csproj",
-        "packagesPath": "C:\\Users\\blyskavka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blyskavka\\Downloads\\Tutorial4\\Tutorial4\\Tutorial4\\obj\\",
+        "projectPath": "/Users/maksym/Desktop/main/pjatk/git/apbd_04/apbd_04/Tutorial4/Tutorial4.csproj",
+        "packagesPath": "/Users/maksym/.nuget/packages/",
+        "outputPath": "/Users/maksym/Desktop/main/pjatk/git/apbd_04/apbd_04/Tutorial4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\blyskavka\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/maksym/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\blyskavka\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/maksym/.dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
