@@ -92,9 +92,19 @@ public class AdvancedEmpDeptTests
     public void ShouldFindAnyWithCommissionOver400()
     {
         var emps = Database.GetEmps();
-
+        
         var result = 
-                emps.Any(e => e.Comm > 400); 
+                emps.Any(e =>
+                {
+                    if (e.Comm.HasValue)
+                    {
+                        return e.Comm.Value > 400;
+                    }
+                    else
+                    {
+                        return false;
+                    }
+                }); 
         //
         Assert.True(result);
     }
@@ -122,7 +132,7 @@ public class AdvancedEmpDeptTests
         var emps = Database.GetEmps();
 
         var result = from e in emps
-                let sum = e.Sal + e.Comm
+                let sum = e.Comm.HasValue ? e.Sal + e.Comm.Value : 0
                     
                     select new
                     {
