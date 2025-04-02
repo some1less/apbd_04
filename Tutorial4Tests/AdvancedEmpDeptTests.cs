@@ -100,10 +100,8 @@ public class AdvancedEmpDeptTests
                     {
                         return e.Comm.Value > 400;
                     }
-                    else
-                    {
-                        return false;
-                    }
+                    return false;
+                    
                 }); 
         //
         Assert.True(result);
