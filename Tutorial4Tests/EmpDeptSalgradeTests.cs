@@ -41,8 +41,7 @@ public class EmpDeptSalgradeTests
         //     if (emp.DeptNo == 30)
         //     {
         //         result.Add(emp);
-        //     }
-        //     
+        //   
         // }
         
         result.Sort((a, b) => b.Sal.CompareTo(a.Sal)); // desc sort
